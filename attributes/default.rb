@@ -1,0 +1,1 @@
+default['mysql_server']['server_root_password'] = "newpassword"
